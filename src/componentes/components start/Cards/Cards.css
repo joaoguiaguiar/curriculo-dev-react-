@@ -6,20 +6,22 @@
     background-color: #0A1931;
 }
 
-.titulo__cards{
+.titulo__cards {
     font-size: 2rem;
 }
 
-.titulo__paragrafo{
+.titulo__paragrafo {
     font-size: 1rem;
 }
 
 .container__cards {
     margin-top: 4rem;
-    margin-left: 5rem;
+    margin-left: auto; /* Adiciona auto margin */
+    margin-right: auto; /* Adiciona auto margin */
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    width: 90%; /* Define uma largura para o contêiner */
 }
 
 .card {
@@ -33,15 +35,19 @@
 
 @media screen and (max-width: 768px) {
     .section__cards {
-        margin-top: 3rem;
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
     }
 
     .container__cards {
         margin-top: 3rem;
+        padding-right: 1rem;
+        width: 100%; 
     }
 
     .card {
-        width: 100%;
+        width: 90%; 
         margin: 1rem 0;
     }
 }

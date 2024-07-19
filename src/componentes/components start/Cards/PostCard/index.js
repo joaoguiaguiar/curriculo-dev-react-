@@ -14,7 +14,7 @@ const PostCard = (props) => {
                  <h2 className="titulo">{props.post.titulo}</h2> 
               </a>
 
-            <Link className='btnSaibaMais' to={`/posts/${props.post.id}`}>Saiba mais</Link>
+            {/* <Link className='btnSaibaMais' to={`/posts/${props.post.id}`}>Saiba mais</Link> */}
            
         </div>
 

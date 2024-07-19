@@ -9,24 +9,22 @@
     align-items: center; 
 }
 
-.apresentacao {
-    display: flex;
-    flex-direction: column;
-    justify-content: center; 
-}
 
 .titulo {
-    font-family: var(--fonte-secundaria);
+    text-align: center;
     font-size: 3rem;
     margin-top: 4.875rem;
     margin-bottom: 2rem;
 }
+
+
 
 .paragrafo {
     font-family: var(--fonte-secundaria);
     font-size: 1rem;
     line-height: 2rem;
     margin-bottom: 2rem;
+    text-align: center;
 }
 
 .imagens {
@@ -80,6 +78,7 @@
     }
 
     .paragrafo {
+        margin-left: 1.5rem;
         margin-top: 2rem;
         font-size: 0.9rem;
         width: 90%;

@@ -1,6 +1,6 @@
 import React from 'react';
 import './Cards.css';
-import posts from '../../../json/posts.json';
+import posts from '../../../json/post.json'
 import PostCard from './PostCard';
 
 const Cards = () => {
