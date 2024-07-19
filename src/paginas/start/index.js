@@ -1,3 +1,4 @@
+import Carrocel from '../../componentes/components start/Carrocel'
 import './start.css'
 
 
@@ -5,7 +6,9 @@ function Start(){
 
 
     return(
-       <section>
+       <section className='section__start'>
+        <Carrocel/>
+
 
        </section>
     )

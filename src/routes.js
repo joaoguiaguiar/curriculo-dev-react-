@@ -15,7 +15,7 @@ function AppRoutes() {
         <Route path='/' element={<PaginaPadrao/>}>
 
 
-          <Route index element={<Start />} />
+          <Route index element={<Start />} />  {/* O index indica que o caminho da rota é igual ao da rota pai. */}
           <Route path='/about-me' element={<AboutMe />} />
 
         </Route>

@@ -1,0 +1,41 @@
+.container__carrocel {
+    padding: 5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .titulo__carrocel {
+    margin-bottom: 1rem;
+    font-size: 2rem;
+  }
+  
+  .carrocel__wrapper {
+    margin-top: 5rem;
+    width: 100%; 
+    max-width: 25rem;
+  }
+  
+  .carousel-item {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .logo__css {
+    height: 400px; 
+  }
+  
+  .carousel-item img {
+    width: 100%;
+    height: auto; 
+    object-fit: cover;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .logo__css {
+      height: 200px; 
+    }
+  }
+  
