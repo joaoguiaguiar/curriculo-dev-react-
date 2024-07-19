@@ -16,7 +16,7 @@
 
 .container__cards {
     margin-top: 4rem;
-    padding: 0;
+    margin-left: 5rem;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
