@@ -2,12 +2,12 @@
 
 .banner {
     padding: 3rem 7.5rem 6.25rem;
-    background-color: var(--azul-escuro);
-    color: var(--branco);
+    background-color: black;
+    color: white;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 2rem; /* Espaço entre o texto e a imagem */
-    align-items: center; /* Alinha verticalmente o texto e a imagem */
+    gap: 2rem; 
+    align-items: center; 
 }
 
 .apresentacao {
@@ -18,14 +18,14 @@
 
 .titulo {
     font-family: var(--fonte-secundaria);
-    font-size: 4rem;
+    font-size: 3rem;
     margin-top: 4.875rem;
     margin-bottom: 2rem;
 }
 
 .paragrafo {
     font-family: var(--fonte-secundaria);
-    font-size: 1.5rem;
+    font-size: 1rem;
     line-height: 2rem;
     margin-bottom: 2rem;
 }
