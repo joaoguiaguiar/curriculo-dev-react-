@@ -1,55 +1,55 @@
 [
     {
         "id": 1,
-        "titulo": "Projeto de Freelancer: RH & DP Terceirização",
+        "titulo": "Projeto de Freelancer",
         "texto": "Este site foi um projeto desenvolvido como freelancer para uma cliente que trabalha na mesma empresa que eu. Ela procurou meus serviços para criar um site para sua empresa de RH e Departamento Pessoal. Iniciamos com o levantamento de requisitos, seguido pela criação do site. Fiquei muito satisfeito com o resultado, assim como minha cliente. Atualmente, sou responsável pela manutenção contínua do site, garantindo que as informações estejam sempre atualizadas e que o site funcione perfeitamente para os usuários e visitantes.",
         "URL": "https://terceirizacaodp.com/"
     },
     {
         "id": 2,
-        "titulo": "Projeto inspirado em uma página do WhatsApp",
-        "texto": "Este projeto foi inspirado na interface do WhatsApp, desenvolvido com o objetivo de praticar conceitos avançados de UI/UX e front-end. O site oferece uma experiência semelhante à plataforma original, mantendo uma interface intuitiva e funcional para os usuários. Durante o desenvolvimento, explorei técnicas de design o e implementei funcionalidades que refletem os principais aspectos de interação do WhatsApp.",
-        "URL": "https://web-site-whatsapp-ficticio.vercel.app/"
-    },
-    {
-        "id": 3,
-        "titulo": "Projeto Sistema de Cadastro feito em React",
+        "titulo": "Sistema de Cadastro em React",
         "texto": "Este projeto em React foi desenvolvido para criar um sistema de cadastro de dados eficiente e responsivo. Utilizei conceitos avançados como props, métodos de array e gerenciamento de estado com useState para garantir um fluxo de trabalho otimizado e uma experiência de usuário melhorada. O sistema permite aos usuários realizar operações de cadastro, edição e exclusão de dados de forma simples e eficaz, demonstrando minha habilidade em desenvolvimento front-end com React.",
         "URL": "https://sistema-cadastro-react.vercel.app/"
     },
     {
+        "id": 3,
+        "titulo": "Projeto Formulário",
+        "texto": "Este projeto consiste em um formulário simples desenvolvido para praticar a validação de dados e interações com formulários em JavaScript. O objetivo principal foi criar uma interface de usuário amigável e responsiva, que oferecesse uma experiência intuitiva ao usuário durante o preenchimento do formulário. Durante o desenvolvimento, implementei técnicas de validação de dados em tempo real e utilizei recursos avançados de HTML e CSS para garantir um design limpo e funcional.",
+        "URL": "https://form-validado.vercel.app/"
+    },
+    {
         "id": 4,
-        "titulo": "Projeto Construção",
-        "texto": "Este projeto fictício de construção civil foi desenvolvido para explorar habilidades avançadas de design e modelagem. O layout do site reflete os principais aspectos estéticos e funcionais do setor de construção, oferecendo uma experiência visual única para os visitantes. Durante o desenvolvimento, foquei na criação de um design realista e funcional que destacasse os serviços oferecidos pela empresa fictícia, mantendo um alto padrão de qualidade estética e técnica.",
-        "URL": "https://site-construcao-kohl.vercel.app/"
+        "titulo": "Projeto Eletricista",
+        "texto": "Este projeto simulou um site para um eletricista, desenvolvido para praticar layout e funcionalidades básicas de web design. O site apresenta informações sobre os serviços oferecidos pelo eletricista fictício, destacando-se pela simplicidade e clareza na apresentação. Durante o desenvolvimento, foquei na criação de um design acessível, responsivo e fácil de navegar.",
+        "URL": "https://projeto-eletricista.vercel.app/"
     },
     {
         "id": 5,
-        "titulo": "Projeto fictício inspirado em uma página da Apple",
-        "texto": "Este projeto foi inspirado na estética e funcionalidades das páginas da Apple, criado para explorar técnicas avançadas de design  moderno. ",
-        "URL": "https://apple-hub.vercel.app/"
+        "titulo": "Projeto Construção",
+        "texto": "Este projeto fictício de construção civil foi desenvolvido para explorar habilidades avançadas de design e modelagem. O layout do site reflete os principais aspectos estéticos e funcionais do setor de construção, oferecendo uma experiência visual única para os visitantes. Durante o desenvolvimento, foquei na criação de um design realista e funcional que destacasse os serviços oferecidos pela empresa fictícia, mantendo um alto padrão de qualidade estética e técnica.",
+        "URL": "https://site-construct-two.vercel.app/"
     },
     {
         "id": 6,
-        "titulo": "Projeto feito com Bootstrap mostrando os componentes",
+        "titulo": "Projeto feito com Bootstrap",
         "texto": "Este projeto explorou o framework Bootstrap para demonstrar e aplicar seus componentes e estilos pré-definidos. O foco principal foi criar um site responsivo e funcional utilizando as classes e componentes oferecidos pelo Bootstrap. Durante o desenvolvimento, aprendi a personalizar e estilizar os componentes para atender às necessidades específicas do projeto, oferecendo uma solução eficiente e de alta qualidade para o desenvolvimento rápido de interfaces web.",
         "URL": "https://prejeto-raiz-bootstrap.vercel.app/"
     },
     {
         "id": 7,
-        "titulo": "Projeto Eletricista",
-        "texto": "Este projeto simulou um site para um eletricista, desenvolvido para praticar layout e funcionalidades básicas de web design. O site apresenta informações sobre os serviços oferecidos pelo eletricista fictício, destacando-se pela simplicidade e clareza na apresentação. Durante o desenvolvimento, foquei na criação de um design acessível, responsivoe e fácil de navegar.",
-        "URL": "https://projeto-eletricista.vercel.app/"
+        "titulo": "Projeto page do WhatsApp",
+        "texto": "Este projeto foi inspirado na interface do WhatsApp, desenvolvido com o objetivo de praticar conceitos avançados de UI/UX e front-end. O site oferece uma experiência semelhante à plataforma original, mantendo uma interface intuitiva e funcional para os usuários. Durante o desenvolvimento, explorei técnicas de design e implementei funcionalidades que refletem os principais aspectos de interação do WhatsApp.",
+        "URL": "https://site-whpp.vercel.app/"
     },
     {
         "id": 8,
-        "titulo": "Projeto Formulário",
-        "texto": "Este projeto consiste em um formulário simples desenvolvido para praticar a validação de dados e interações com formulários em JavaScript. O objetivo principal foi criar uma interface de usuário amigável e responsiva, que oferecesse uma experiência intuitiva ao usuário durante o preenchimento do formulário. Durante o desenvolvimento, implementei técnicas de validação de dados em tempo real e utilizei recursos avançados de HTML e CSS para garantir um design limpo e funcional.",
-        "URL": "https://formulario-sigma-six.vercel.app/"
+        "titulo": "Projeto página da Apple",
+        "texto": "Este projeto foi inspirado na estética e funcionalidades das páginas da Apple, criado para explorar técnicas avançadas de design moderno.",
+        "URL": "https://apple-hub.vercel.app/"
     },
     {
         "id": 9,
-        "titulo": "Projeto FrontBox testando habilidades Front-end",
+        "titulo": "Projeto FrontBox",
         "texto": "Este projeto desafiador foi desenvolvido para testar habilidades avançadas em front-end, incluindo animações, transições e layouts complexos. O foco foi criar uma experiência visual e interativa única para os usuários, utilizando técnicas modernas de design e desenvolvimento web.",
         "URL": "https://frontbox-sooty.vercel.app/"
     }

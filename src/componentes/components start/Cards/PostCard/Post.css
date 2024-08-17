@@ -6,9 +6,7 @@
     margin-bottom: 2rem;
 }
 
-.post:hover {
-    transform: translate(0, -1rem);
-}
+
 
 .ancora {
     text-decoration: none;
@@ -30,10 +28,31 @@
 .btnSaibaMais {
     text-decoration: none;
     border-radius: 1rem;
-    background-color: #000;
     color: white;
     padding: 0.5em 1em;
 }
+
+.container__botoes{
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+
+
+
+.btn__saibaMais{
+    padding: 0.5em 0.5em;
+    color: white;
+    background-color:  #0A1931;
+    border-radius: 0.5rem;
+
+}
+
+.texto__modal{
+    color: black;
+}
+
+
 
 @media (max-width: 600px) {
     .post {
